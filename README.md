@@ -24,9 +24,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+<p align="center">
+  This is a sample scraping microservice, using [Nest](https://github.com/nestjs/nest), Puppeteer, TypeScript
+</p>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-This is a sample scraping microservice 
 
 ## Installation
 
